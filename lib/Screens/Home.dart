@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("News",style: TextStyle(fontWeight: FontWeight.bold),),
+        title: Text("News Page",style: TextStyle(fontWeight: FontWeight.bold),),
       ),
       body: Container(
         width: double.infinity,
